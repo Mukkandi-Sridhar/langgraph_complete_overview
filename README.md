@@ -1,19 +1,15 @@
-# LangGraph Basics – ReAct & Core Workflow Patterns
+# LangGraph Basics
 
-This repository demonstrates **fundamental LangGraph patterns** in a clean,
-minimal, and easy-to-understand way.
+Clean and beginner-friendly examples of LangGraph core patterns.
 
-## What’s included
-- ReAct (Reasoning + Acting) agent
+## Includes
+- ReAct (Reason + Act) agent
 - Sequential workflow
 - Conditional (branching) workflow
 - Looping workflow
-
-This repo avoids unnecessary theory and focuses on **working code**.
-
----
 
 ## Setup
 
 ```bash
 pip install -r requirements.txt
+export OPENAI_API_KEY="your_api_key"
